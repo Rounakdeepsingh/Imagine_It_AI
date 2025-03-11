@@ -84,7 +84,8 @@ Prompt  -
 
  Generated Image -
  
-![Uploading image.png…]()
+![inpaint](https://github.com/user-attachments/assets/13ae5725-70cc-43c0-9fde-d803cc0428cf)
+
 
 
 
